@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="text_horizontal">Soy un texto en horizontal</string>
+    <string name="texto_vertical">Soy un texto en vertical</string>
+    <string name="log_password">Password</string>
+    <string name="log_nombre">Nombre</string>
+    <string name="registro">Registro</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
